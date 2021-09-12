@@ -1,4 +1,4 @@
-# Masters_Final_Project
+# MSc Research
 
 Title:-SARS-CoV-2 Detection Through Chest
 CT Screening Using Deep Learning
